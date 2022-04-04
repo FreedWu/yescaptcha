@@ -1,4 +1,4 @@
-module yescaptcha
+module github.com/FreedWu/yescaptcha
 
 go 1.17
 
